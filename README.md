@@ -6,7 +6,7 @@
 
   <br>
 
-  <a href="https://github.com/yourusername/frameforge/releases/latest">
+  <a href="https://github.com/FuchsiaBardFlare/tiktok-reels-shorts-ai-vertical-video-generation/releases/tag/FrameForge">
     <img src="https://img.shields.io/badge/Download%20v1.0-8b5cf6?style=for-the-badge&logo=github&logoColor=white" height="32">
   </a>
 
